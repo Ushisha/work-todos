@@ -6,3 +6,19 @@
 - edit
 - mark as complete
 - delete
+
+## Screenshot
+
+![screenshot](./screenshot.png)
+
+## Links
+
+- Live Site URL: [live site URL](https://ushisha.github.io/work-todos/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Javascript
+- CSS
