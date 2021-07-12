@@ -1,5 +1,5 @@
 body {
-  background: #04a1bf;
+  background: #d6e1e2;
   text-align: center;
   font-family: "Open Sans", sans-serif;
 }
@@ -35,7 +35,7 @@ p {
 #enter {
   border: none;
   padding: 5px 15px;
-
+  cursor: pointer;
   border-radius: 5px;
   color: #04a1bf;
   background-color: #025f70;
@@ -47,8 +47,7 @@ p {
   font-weight: normal;
 }
 #enter:hover {
-  background-color: #02798f;
-  color: #ffcd5d;
+  background-color: #51df70;
 }
 
 ul {
@@ -85,11 +84,26 @@ li > button {
   color: #025f70;
   font-weight: 800;
 }
+#enter {
+  height: 28.31px;
+  width: 28.31px;
+  margin-left: 5px;
+  position: relative;
+  background-color: #ffcd5d;
+}
+.image {
+  position: absolute;
+  bottom: 4px;
+  right: 3px;
+}
+
 input {
   border-radius: 5px;
   min-width: 65%;
   padding: 5px;
   border: none;
+  padding: 0.5em;
+  outline: none;
 }
 .done {
   background: #51df70 !important;
@@ -98,4 +112,11 @@ input {
 
 .delete {
   display: none;
+}
+.input {
+  display: flex;
+  justify-content: center;
+}
+.icons8 {
+  color: aliceblue;
 }
