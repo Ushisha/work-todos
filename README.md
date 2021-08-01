@@ -13,7 +13,7 @@
 
 ## Links
 
-- Demo: [live site URL](https://ushisha.github.io/work-todos/)
+- Demo: [https://ushisha.github.io/work-todos/](https://ushisha.github.io/work-todos/)
 
 ## My process
 
